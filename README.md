@@ -13,4 +13,4 @@ Irányítás:
 
 -jobb, bal, fel, le nyilak
 
-![Screenshot of project](/procejt_screenshot.png "Project Screenshot")
+![Screenshot of project](project_screenshot.png?raw=true "Project Screenshot")
