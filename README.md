@@ -12,3 +12,5 @@ Játékmenet:
 Irányítás:
 
 -jobb, bal, fel, le nyilak
+
+
